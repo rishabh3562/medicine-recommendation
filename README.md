@@ -21,7 +21,7 @@ Follow these steps to set up and run the project:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/rishabh3562/medicine-recommendation.git
 cd your-repository-folder
 ```
 
